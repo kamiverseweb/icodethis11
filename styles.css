@@ -90,3 +90,6 @@ button{
     left: 605px;
     border-radius: 5px;
 }
+.box:hover {
+    transform: translateY(-10px);
+}
